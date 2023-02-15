@@ -1,0 +1,109 @@
+ul{
+    list-style:none;
+    margin: 1px;
+    background: #8fb8bc;
+    overflow: hidden;
+    padding: unset;
+}
+li{
+    float: left;
+}
+li,a{
+    padding: 12px;
+    margin: 14px;
+    color: #00ff59;
+}
+li a:hover{
+    background: aqua;
+}
+head{
+    color:red;
+    text-align:center;
+    font-family: Chilanka;
+}
+body{
+    color: red;
+    font-family: "padmaa";
+    font-size: medium;
+    text-align: center;
+}
+th,td{
+    border: 2px solid #ff8415;
+    padding: 10px;
+    margin: 12px;
+    font-family: "DejaVu Sans";
+    color: #00ffc4;
+}
+table{
+    border-collapse:collapse;
+    width: 100%;
+    background-attachment: revert;
+
+}
+th{
+    background: chocolate;
+    font-family: Chilanka;
+}
+td{
+    background:darkslateblue;
+    font-family:Chilanka;
+}
+.fruit{
+    color: #ff8415;
+    background: #8fb8bc;
+    border: #2px solid red;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+
+}
+.toyota{
+    color: darkslateblue;
+    background: black;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid blue;
+}
+.appel{
+    color: blueviolet;
+    background: #b4a827;
+    border: 2px solid chocolate;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.appel{
+    color: darkturquoise;
+    background: chartreuse;
+    border: 2px solid greenyellow;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+body{
+    height: 2px;
+    color: black;
+    text-align: center;
+}
+form{
+        color: navy;
+        text-align: center;
+        background-color: #898023;
+        margin: 30px;
+    margin-bottom: 15px;
+    border: double #070746;
+    width: 50%;
+}
+input{
+    margin:20px;
+    padding: 10px;
+}
+select{
+    background-color: #fd2fff;
+}
+
+
+
+
+
